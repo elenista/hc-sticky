@@ -489,7 +489,7 @@
 				var onResize = function() {
 					
 					// check if display attribute has changed due to css media queries
-					$wrapper.css({'display': '');
+					$wrapper.css({'display': ''});
                                         var display = $wrapper.css('display');
                                         $wrapper.css({'display': display});
 
